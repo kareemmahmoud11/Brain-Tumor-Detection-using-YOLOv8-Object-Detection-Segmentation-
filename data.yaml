@@ -1,0 +1,6 @@
+path: /kaggle/working/Brain_Tumor_YOLO
+train: images/train
+val: images/val
+
+nc: 1
+names: ['tumor']
